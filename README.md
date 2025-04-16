@@ -22,3 +22,7 @@ This project contains an interactive resume for Harry, built entirely with HTML.
 - Use as a stylish web resume.
 - Convert to PDF via browser print (Ctrl+P / Cmd+P).
 - Easily email or share the single HTML file without worrying about missing assets.
+
+## 📝 Disclaimer
+
+This project is created for educational and entertainment purposes only. All characters, names, and content are the property of their respective owners and are used here under fair use guidelines. No copyright infringement is intended. This project is not endorsed by or affiliated with Marvel or any other copyright holders.
